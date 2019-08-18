@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">MusicStreaming</string>
+    <string name="error_something_went_wrong">Oops! Something went wrong!</string>
+</resources>
